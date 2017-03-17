@@ -1,0 +1,3 @@
+Give Pizza a namespace - Food\Tasty
+
+Update eat.php to work with this - but without adding a use statement

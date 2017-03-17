@@ -1,0 +1,9 @@
+Is that first slash in \Animal\Adorable\Koala necessary?
+
+A) Yes. If you choose to not have a use statement,
+then you must always start with a \ so that PHP knows to build the namespace from the root of all namespaces.
+
+B) No. The slash is always optional, and
+really redundant: PHP knows that you are looking for a class from the root of the namespace.
+
+C)It depends on whether or not this file lives in the same namespace.
